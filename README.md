@@ -1,5 +1,5 @@
 # Social_media-based_COVID-19_sentiment_classification_model_using_Bi-LSTM
-Deep learning Project
+## Deep learning Project
 
 The dataset consist of the tweets made by the people during the covid-19 period. My model is trained using Bi-LSTM, as it can read the tweet from front as well as back. And therefore, can let us know whether the sentiment is Positive, Negative or neutral.
 
